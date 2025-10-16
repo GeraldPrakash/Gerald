@@ -1,0 +1,7 @@
+
+*8. What is the Relationship between Electric and Magnetic Fields?*
+
+
+
+Electric and magnetic fields are interconnected; a changing electric field produces a magnetic field, and vice versa.
+

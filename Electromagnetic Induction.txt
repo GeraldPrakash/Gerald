@@ -1,0 +1,6 @@
+*5. What is Electromagnetic Induction?*
+
+
+
+Electromagnetic induction is the process by which a changing magnetic field induces an electric current in a conductor.
+
